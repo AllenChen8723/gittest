@@ -1,3 +1,0 @@
-[submodule "reference/git-sub-module"]
-	path = reference/git-sub-module
-	url = git@github.com:AllenChen8723/gittest2.git
